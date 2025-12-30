@@ -1,4 +1,5 @@
-scoreboard preview.mp4
+## Preview
+![Scoreboard Preview](scoreboard-preview.mp4)
 
 # Rangess Script
 
